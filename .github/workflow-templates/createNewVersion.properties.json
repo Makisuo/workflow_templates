@@ -1,0 +1,7 @@
+{
+	"name": "Makisuo's Workflows",
+	"description": "A cool workflow for creating a new version with yarn and commiting it.",
+	"iconName": "example-icon",
+	"categories": ["TSX"],
+	"filePatterns": ["package.json$"]
+}

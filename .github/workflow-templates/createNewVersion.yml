@@ -2,8 +2,7 @@ name: Create new Minor Version
 
 on:
     pull_request:
-        branches:
-            - main
+        branches: [$default-branch]
         types: [closed]
 
 jobs:
